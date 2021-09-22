@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Mogakamo/blockchain/issues"
   },
-  "homepage": "https://github.com/Mogakamo/blockchain#readme"
+  "homepage": "https://github.com/Mogakamo/blockchain#readme",
+  "dependencies": {
+    "lisk-sdk": "^5.1.4"
+  }
 }
